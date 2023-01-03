@@ -9,3 +9,8 @@ In this project I intend to see if there is any bias toward reviews that were wr
 Below are the screenshots of the results I obtained through the process explained in the Overview section.
 
 ![This is an image](/Paid_Reviews.png) ![This is an image](/Unpaid_Reviews.png) 
+
+As it can be seen, as part of this dataset, 4987 reviews were posted by Vine program members, 2029 of which rated the product as 5 star. On the other hand, among the 108015 reviews submitted by non-Vine members, 49645 reviews gave a 5 star to the product. Overall, 40.69% and 45.96% of the reviews submitted by Vine and non-Vine members, respectively, rated the product with a 5 star.
+
+## Summary
+
